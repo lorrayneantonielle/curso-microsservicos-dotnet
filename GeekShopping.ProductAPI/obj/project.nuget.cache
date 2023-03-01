@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jBI66RPCQlI6qLpjYGSGssfLaK6WAFk+xbMP1NQgkgQPsTYibGY0Hx0Ldx4IDp4cx/OY0yOAw+ry86s8eOpXNA==",
+  "dgSpecHash": "shtYRDEsguKg8elLWRzxY5C6JQcwrMptUBtgKd49Z2bDkZep43MLkRDfOwCUgUqAAnnCf+BqDdfrhFCsSHYk9Q==",
   "success": true,
-  "projectFilePath": "C:\\xampp\\htdocs\\microsservicos com .NET\\aula1\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
+  "projectFilePath": "C:\\xampp\\htdocs\\curso-microsservicos-dotnet\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dti Digital\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\dti Digital\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
