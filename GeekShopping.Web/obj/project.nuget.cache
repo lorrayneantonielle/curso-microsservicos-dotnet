@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lISnm3d5Ow2qjGwdjdCE/W+fWUjDYfXrp2Hoe27vALOXPhh/nJYMmdcg+LES3UiO4wopawuXvY7gSeHDrSHWKw==",
+  "dgSpecHash": "3Mi6+LplOepfGTM2prC4PlZ50OH2IMcJHK8g9zEI9uHmpvgFR/wYrirdBI7OrdUBNe/iwMWf9d9l/4ImFX9Rig==",
   "success": true,
-  "projectFilePath": "C:\\xampp\\htdocs\\microsservicos com .NET\\aula1\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
+  "projectFilePath": "C:\\xampp\\htdocs\\curso-microsservicos-dotnet\\GeekShoppingWeb\\GeekShopping.Web.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
-﻿using GeekShopping.Web.Models;
+﻿using GeekShoppingWeb.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace GeekShopping.Web.Controllers
+namespace GeekShoppingWeb.Controllers
 {
     public class HomeController : Controller
     {

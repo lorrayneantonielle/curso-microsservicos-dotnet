@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xampp\\htdocs\\curso-microsservicos-dotnet\\GeekShoppingWeb\\GeekShoppingWeb.csproj",
-      "projectName": "GeekShoppingWeb",
-      "projectPath": "C:\\xampp\\htdocs\\curso-microsservicos-dotnet\\GeekShoppingWeb\\GeekShoppingWeb.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\curso-microsservicos-dotnet\\GeekShoppingWeb\\GeekShopping.Web.csproj",
+      "projectName": "GeekShopping.Web",
+      "projectPath": "C:\\xampp\\htdocs\\curso-microsservicos-dotnet\\GeekShoppingWeb\\GeekShopping.Web.csproj",
       "packagesPath": "C:\\Users\\dti Digital\\.nuget\\packages\\",
       "outputPath": "C:\\xampp\\htdocs\\curso-microsservicos-dotnet\\GeekShoppingWeb\\obj\\",
       "projectStyle": "PackageReference",
